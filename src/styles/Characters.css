@@ -1,0 +1,9 @@
+#char{
+    font-size: 3rem;
+    color: white;
+}
+#main{
+    display:flex;
+    flex-wrap: wrap;
+    margin-top:5vh;
+}
